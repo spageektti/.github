@@ -1,8 +1,10 @@
 # Hi, I'm Wiktor 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/wiktor-perskawiec)
-[![Website](https://img.shields.io/badge/Website-perskawiec.cc-181717?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://perskawiec.cc)
-[![tldr-pages](https://img.shields.io/badge/tldr--pages-Maintainer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tldr-pages)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wiktor_Perskawiec-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=24292e)](https://pl.linkedin.com/in/wiktor-perskawiec)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-perskawiec.cc-4F46E5?style=flat&logo=firefoxbrowser&logoColor=white&labelColor=24292e)](https://perskawiec.cc)
+&nbsp;
+[![tldr-pages](https://img.shields.io/badge/tldr--pages-Maintainer-10B981?style=flat&logo=github&logoColor=white&labelColor=24292e)](https://github.com/tldr-pages)
 
 Also known as **spageektti** around the web.
 
