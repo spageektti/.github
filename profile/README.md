@@ -1,5 +1,28 @@
 # Hi, I'm Wiktor 👋
 
+Also known as **spageektti** around the web.
+
+I'm a high school student from Poland, an open-source maintainer, and a programmer.
+
+---
+
+### 💻 What I do
+
+* **tldr-pages:** Maintainer and organization owner. I spend a lot of my time reviewing PRs and keeping console cheat sheets simple.
+* **Open Data:** Regular contributor to OpenStreetMap, Wikipedia, and more.
+* **Algorithms:** Into competitive programming and algorithmic problem-solving.
+* **Android & Dev:** Currently learning Kotlin and Jetpack Compose to build modern Android apps and other projects.
+
+---
+
+### 🚀 Random Highlights
+
+* SuperTuxKart fan 🏎️
+* Won a few informatics and math contests (including Best Programmer of Poznań 2025)
+* Certified drone pilot (EASA A1/A3)
+
+---
+
 [![Beeper](https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff)](#)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
 [![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](#)
@@ -33,35 +56,3 @@
 [![CodeChef](https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff)](#)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
-
-
-
-
-
-
-
-
-Also known as **spageektti** around the web.
-
-I'm a high school student from Poland, an open-source maintainer, and a programmer.
-
----
-
-### 💻 What I do
-
-* **tldr-pages:** Maintainer and organization owner. I spend a lot of my time reviewing PRs and keeping console cheat sheets simple.
-* **Open Data:** Regular contributor to OpenStreetMap, Wikipedia, and more.
-* **Algorithms:** Into competitive programming and algorithmic problem-solving.
-* **Android & Dev:** Currently learning Kotlin and Jetpack Compose to build modern Android apps and other projects.
-
----
-
-### 🚀 Random Highlights
-
-* SuperTuxKart fan 🏎️
-* Won a few informatics and math contests (including Best Programmer of Poznań 2025)
-* Certified drone pilot (EASA A1/A3)
-
----
-
-*Find more of my work on [my website](https://perskawiec.cc). For a full academic and certification breakdown, check out my LinkedIn in the profile sidebar.*
