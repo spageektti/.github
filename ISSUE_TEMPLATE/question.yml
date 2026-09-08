@@ -1,0 +1,22 @@
+name: ❓ Question
+description: Ask a question about usage, architecture, or configuration.
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check existing documentation and issues before asking. Note that support is best-effort.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your Question
+      description: What are you trying to accomplish, and where are you stuck?
+    validations:
+      required: true
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you tried so far?
+      description: Detail what commands you ran, docs you reviewed, or approaches you tested.
+    validations:
+      required: true
