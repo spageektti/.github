@@ -1,0 +1,32 @@
+name: 💬 General / Other
+description: Open an issue that doesn't fit bug reports, feature requests, or documentation.
+labels: ["triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for feedback, refactoring proposals, maintenance questions, or other topics that don't fit a standard bug or feature request.
+  - type: input
+    id: summary
+    attributes:
+      label: Summary
+      description: A concise, one-line summary of what this issue is about.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Provide all relevant context, reasoning, and details.
+      placeholder: "Describe the situation or proposal clearly..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Before Submitting
+      options:
+        - label: I searched open and closed issues and discussions to make sure this hasn't already been discussed.
+          required: true
+        - label: I have reviewed the [Contributing Guidelines](https://github.com/spageektti/.github/blob/main/CONTRIBUTING.md) and understand low-effort or unsolicited AI content will be closed.
+          required: true
