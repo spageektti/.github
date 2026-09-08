@@ -28,5 +28,5 @@ body:
       options:
         - label: I searched open and closed issues and discussions to make sure this hasn't already been discussed.
           required: true
-        - label: I have reviewed the [Contributing Guidelines](https://github.com/.github/blob/main/CONTRIBUTING.md) and understand low-effort or unsolicited AI content will be closed.
+        - label: I have reviewed the [Contributing Guidelines](https://github.com/spageektti/.github/blob/main/CONTRIBUTING.md) and understand low-effort or unsolicited AI content will be closed.
           required: true
