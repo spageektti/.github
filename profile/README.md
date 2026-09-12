@@ -55,3 +55,8 @@ I'm a high school student from Poland, an open-source maintainer, and a programm
 [![CodeChef](https://custom-icon-badges.demolab.com/badge/CodeChef-4079DA?logo=codechef&logoColor=fff)](#)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=spageektti&hide_title=true&show=prs_merged%2Cprs_merged_percentage%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=spageektti&hide_title=true&show=prs_merged%2Cprs_merged_percentage%2Cprs_reviewed%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
+
